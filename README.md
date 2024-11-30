@@ -1,6 +1,6 @@
 ﻿# portfolioCapacita
 
-![Resume - Start Bootstrap Theme - Google Chrome 30_11_2024 10_21_20](https://github.com/user-attachments/assets/36d33155-9eef-4b88-b1f8-cf1b1f1d0e62)
+![Resume - Start Bootstrap Theme - Google Chrome 30_11_2024 10_21_20](https://github.com/user-attachments/assets/6b51a76f-8efe-4b9e-856c-872d82c5ba4e)
 
 <h2>Tecnologias utilizadas</h2>
 <ul>
